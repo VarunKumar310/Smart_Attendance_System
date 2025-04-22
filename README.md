@@ -18,7 +18,7 @@ The **Smart Attendance System** is a facial recognition-based web application de
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python (Flask)  
 - **AI/ML**: Face Recognition using OpenCV or Dlib  
-- **Data Storage**: CSV File for storing attendance logs  
+- **Data Storage**: CSV File for storing attendance logs.
 
 ## 🧠 How It Works
 
